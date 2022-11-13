@@ -6,3 +6,6 @@ perunoita
 pihvit
 kananmunia
 maitoa
+mehua
+omenoita
+ketsuppia
