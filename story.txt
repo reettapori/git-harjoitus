@@ -1,6 +1,6 @@
 Tämä lause on kirjoitettu GitHubissa Stash-harjoitusta varten.
 
-Tämä teksti on kirjoitettu Git Bashissa merge conflict-harjoitusta varten. Se toimii myös Microsoft Windowsilla; virallinen asennuspaketti perustuu MinGW MSYSiin ja sisältää myös tyypillisiä POSIX-ympäristöjen apuohjelmia, kuten Bash-komentotulkin ja OpenSSH-asiakasohjelman. Git voidaan asentaa Windowsiin myös Cygwin-järjestelmän osana. Unix-suunnittelufilosofian mukaisesti Git ei ole yksittäinen sovellusohjelma, vaan koostuu suuresta joukosta pienempiä sovelluksia, joista kukin toteuttaa yksittäisiä toimintoja.
+Tämä teksti on kirjoitettu Git Bashissa merge conflict-harjoitusta varten. Ja Tämä teksti on kirjoitettu GitHubissa merge conflict-harjoitusta varten. Se toimii myös Microsoft Windowsilla; virallinen asennuspaketti perustuu MinGW MSYSiin ja sisältää myös tyypillisiä POSIX-ympäristöjen apuohjelmia, kuten Bash-komentotulkin ja OpenSSH-asiakasohjelman. Git voidaan asentaa Windowsiin myös Cygwin-järjestelmän osana. Unix-suunnittelufilosofian mukaisesti Git ei ole yksittäinen sovellusohjelma, vaan koostuu suuresta joukosta pienempiä sovelluksia, joista kukin toteuttaa yksittäisiä toimintoja.
 
 Gitin sanotaan olevan kolmannen sukupolven versionhallintajärjestelmä, joka toimii hajautetusti ja seuraa muutosjoukkoja.[6] Muita vastaavia versionhallintajärjestelmiä ovat Mercurial ja GNU Bazaar.[6]
 
