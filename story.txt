@@ -1,7 +1,8 @@
 Tämä lause on kirjoitettu GitHubissa Stash-harjoitusta varten.
 
-Git on suunniteltu POSIX-yhteensopiville käyttöjärjestelmille (mukaan lukien Linux ja macOS). Se toimii myös Microsoft Windowsilla; virallinen asennuspaketti perustuu MinGW MSYSiin ja sisältää myös tyypillisiä POSIX-ympäristöjen apuohjelmia, kuten Bash-komentotulkin ja OpenSSH-asiakasohjelman. Git voidaan asentaa Windowsiin myös Cygwin-järjestelmän osana. Unix-suunnittelufilosofian mukaisesti Git ei ole yksittäinen sovellusohjelma, vaan koostuu suuresta joukosta pienempiä sovelluksia, joista kukin toteuttaa yksittäisiä toimintoja.
+Tämä teksti on kirjoitettu Git Bashissa merge conflict-harjoitusta varten. Se toimii myös Microsoft Windowsilla; virallinen asennuspaketti perustuu MinGW MSYSiin ja sisältää myös tyypillisiä POSIX-ympäristöjen apuohjelmia, kuten Bash-komentotulkin ja OpenSSH-asiakasohjelman. Git voidaan asentaa Windowsiin myös Cygwin-järjestelmän osana. Unix-suunnittelufilosofian mukaisesti Git ei ole yksittäinen sovellusohjelma, vaan koostuu suuresta joukosta pienempiä sovelluksia, joista kukin toteuttaa yksittäisiä toimintoja.
 
 Gitin sanotaan olevan kolmannen sukupolven versionhallintajärjestelmä, joka toimii hajautetusti ja seuraa muutosjoukkoja.[6] Muita vastaavia versionhallintajärjestelmiä ovat Mercurial ja GNU Bazaar.[6]
 
 Gitin alkuperäinen kehittäjä Linus Torvalds kertoo hajautetun järjestelmän eduksi, että politikointi käyttäjäoikeuksista poistuu: jokaisella käyttäjällä on oma tietovarasto (engl. repository).[7] Hajautettu versionhallinta mahdollistaa myös helpot ja luotettavat varmuuskopiot ja henkilökohtaisten kokeellisten tietovarastojen käytön.[7] Tämä lause on lisätty Git Bashissa Stash-harjoitusta varten.
+
